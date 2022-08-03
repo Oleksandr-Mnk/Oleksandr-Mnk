@@ -15,10 +15,12 @@
 <a href="https://git-scm.com" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/Git_icon.svg.png" alt="git" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://github.com" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/githubicn.png" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mysql.com" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/mysqlicon.png" alt="mysql" width="50" height="50" style="max-width: 100%;"> </a>
+<p>
 <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/postgresql.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/csharp%20icon.png" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.gurock.com/testrail/" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/testrail%20icon.png" alt="testrail" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://dbeaver.io" rel="nofollow"> <img src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/dbeaver-icon.png" alt="dbeaver" width="40" height="40" style="max-width: 100%;"> </a>
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oleksandr-minchuk-qa-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
