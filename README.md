@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandr-mnk&label=Profile%20views&color=0e75b6&style=flat" alt="oleksandr-mnk" /> </p>
 <img align="right" alt="Welcome" width="1000" src="https://github.com/Oleksandr-Mnk/Oleksandr-Mnk/blob/main/assets/welcome%20img.jpg">
 <h1 align="center">Hi 👋, I'm Oleksandr Minchuk</h1>
 <h3 align="center">A passionate QA Engineer</h3>
